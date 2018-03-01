@@ -1,1 +1,1 @@
-# P-S-Exercises
+# P&S-Exercises
