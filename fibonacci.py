@@ -1,19 +1,12 @@
-# Gerard Hanlon
-# A program that displays Fibonacci numbers.
+# Gerard Hanlon, 15.03.2018
+# A program that displays the Fibonacci numbers
 
-def fib(n):
-  """This function returns the nth Fibonacci number."""
-  i = 0
-  j = 1
-  n = n - 1
-
-  while n >= 0:
-    i, j = j, i + j
-    n = n - 1
+def fibonacci(n):
+    a,b = 1,1
+    for i in range(n-1):
+        a,b = b, a+b
+    return a
   
-  return i
-
-# Test the function with the following value.
-x = 40
-ans = fib(x)
+x = 30
+ans = fibonacci(x)
 print("Fibonacci number", x, "is", ans)
