@@ -3,10 +3,10 @@
 # https://gist.github.com/PEZ/47534
 
 i = 1
-for k in (range(1, 21)):
-    if i % k > 0:
+for k in (range(1, 21)): # "List" from 1 to 20
+    if i / k > 0: # i is +ive
         for j in range(1, 21):
-            if (i*j) % k == 0:
-                i *=j
+            if (i*j) % k == 0: # i is evenly divisable
+                i *=j # return smallest possible i
                 break
 print (i)
