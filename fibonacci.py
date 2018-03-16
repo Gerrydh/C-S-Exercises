@@ -7,6 +7,6 @@ def fibonacci(n):
         a,b = b, a+b
     return a
   
-x = 30
+x = int(input("Input a number to calculate the Fibonacci :"))
 ans = fibonacci(x)
 print("Fibonacci number", x, "is", ans)
