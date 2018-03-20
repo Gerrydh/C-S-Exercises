@@ -1,5 +1,6 @@
 # Gerard Hanlon, 2018-02-22
 # Smallest number divisable by number 1-20 (Project Euler Exercise 5)
+# 3 points to consider. Number must be positive. The number must be evenly divisible. The smallest possible i.
 # https://gist.github.com/PEZ/47534
 
 i = 1
