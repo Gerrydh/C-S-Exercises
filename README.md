@@ -4,7 +4,7 @@
 
 This repositery contains the weekly tasks completed for our Programming and Scripting module
 
-1. ### Week 1 (22-01-2018 to 28-01-2018) #f03c15
+1. ### Week 1 (22-01-2018 to 28-01-2018) 
 
    *Fibonacci 30 exercise*
 
@@ -27,3 +27,15 @@ This repositery contains the weekly tasks completed for our Programming and Scri
    *Project Euler problem 5* (https://projecteuler.net/problem=5) 
 
    This exercise involved finding the smallest positive number that could be evenly divisable by all of the numbers between the range 1-20
+   
+1. ### Week 6 (26-02-2018 to 04-03-2018)
+
+   *Iris Data Set*
+   
+   This excerise involved printing out the 4 numberical columns in a nicely alligned format from the .csv file
+   
+1. ### Week 7 (05-03-2018 to 11-03-2018)
+
+   *Factorial() Function*
+   
+   factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. 
