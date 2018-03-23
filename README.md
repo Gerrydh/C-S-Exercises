@@ -24,4 +24,6 @@ This repositery contains the weekly tasks completed for our Programming and Scri
 
 1. ### Week 5 (19-02-2018 to 25-02-2018)
 
-   *[Project Euler problem 5]* (https://projecteuler.net/problem=5) 
+   *Project Euler problem 5* (https://projecteuler.net/problem=5) 
+
+   This exercise involved finding the smallest positive number that could be evenly divisable by all of the numbers between the range 1-20
