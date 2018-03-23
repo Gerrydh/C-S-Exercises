@@ -1,16 +1,20 @@
 # HIGHER DIPLOMA IN DATA ANALYTICS - 2018
 
-## **Programming and Scripting weekly Tasks**
+   ## **Programming and Scripting weekly Tasks**
 
-This repositery contains the weekly tasks completed for our Programming and Scripting module
+    This repositery contains the weekly tasks completed for our Programming and Scripting module
 
 1. ### Week 1 -22-01-2018 to 28-01-2018 
 
    *Fibonacci 30 exercise*
+   
+   The Fibonacci sequence is a series of numbers where a number is found by adding the sum of the previous two numbers
 
 1. ### Week 2 -29-01-2018 to 04-02-2018
 
-   *Fibonacci Surname exercise*
+   *Fibonacci Forname/Surname exercise*
+   
+   This excerise was to find the fibonacci number for the value of the first letters of my first and last names (G+H or 
    
 1. ### Week 3 -05-02-2018 to 11-02-2018
    
