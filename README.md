@@ -4,7 +4,7 @@
 
 This repositery contains the weekly tasks completed for our Programming and Scripting module
 
-1. ### Week 1 (22-01-2018 to 28-01-2018)
+1. ### Week 1 (22-01-2018 to 28-01-2018) #f03c15
 
    *Fibonacci 30 exercise*
 
