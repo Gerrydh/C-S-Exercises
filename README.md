@@ -1,7 +1,7 @@
 # HIGHER DIPLOMA IN DATA ANALYTICS - 2018
 
    ## **Programming and Scripting weekly Tasks**
-
+![alt text] (https://www.python.org/static/img/python-logo.png)
     This repositery contains the weekly tasks completed for our Programming and Scripting module
 
 1. ### Week 1 -22-01-2018 to 28-01-2018 
@@ -12,9 +12,9 @@
 
 1. ### Week 2 -29-01-2018 to 04-02-2018
 
-   *Fibonacci Forname/Surname exercise*
+   *Fibonacci Surname exercise*
    
-   This excerise was to find the fibonacci number for the value of the first letters of my first and last names (G+H or 
+   This excerise was to find the fibonacci number for the sum of the values of the first and last letters of my surname  
    
 1. ### Week 3 -05-02-2018 to 11-02-2018
    
