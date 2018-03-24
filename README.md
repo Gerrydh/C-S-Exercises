@@ -1,6 +1,6 @@
 # HIGHER DIPLOMA IN DATA ANALYTICS - 2018
 
-   ## **Programming and Scripting weekly Tasks**
+   ## **Programming and Scripting weekly tasks**
 
     This repository contains the weekly tasks completed for our Programming and Scripting module
 
