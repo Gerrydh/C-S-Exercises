@@ -1,12 +1,20 @@
-# Gerard Hanlon, 15.03.2018
-# A program that displays the Fibonacci numbers
+# Gerard Hanlon, 23.01.2018 
+# A program that displays Fibonacci numbers.
+# The fibonacci sequence is a series of numbers where a number is found by adding the sum of the previous 2 numbers
 
-def fibonacci(n): # n returns the nth number
-    a,b = 1,1   # define the first two numbers in the sequence
-    for i in range(n-1):
-        a,b = b, a+b   # move a and b forward 1 unit within each loop. b t will be 1 after that which is a+b
-    return a # return the fibonacci number which is the current number
+def fib(n):
+  #This function returns the nth Fibonacci number.
+  i = 0 # variable i = the first fibonacci number
+  j = 1 # variable j = the second fibonacci number
+  n = n - 1 # variable n = n - 1
+
+  while n >= 0: # while n is greater than 0
+    i, j = j, i + j # 0, 1 = 1, 0 + 1
+    n = n - 1 # we want the script to add the number preceeding it
   
-x = int(input("Input a number to calculate the Fibonacci :")) # Enter number (x). This will return the given Fibonacci number
-ans = fibonacci(x) # The answer is the result of the given integer (x)
-print("Fibonacci number", x, "is", ans)
+  return i # return the new value of i
+
+# Test the function with the following value.
+x = int(input("Input an integer to calculate the fibonacci number : ")) # Enter any integer to return the fibonacci number
+ans = fib(x) # answer = the integer entered from the above instruction
+print("Fibonacci number", x, "is", ans) # prints the fibonacci number of the entered integer
