@@ -9,5 +9,5 @@ for k in (range(1, 21)): # "List" from 1 to 20
         for j in range(1, 21):
             if (i*j) % k == 0: # i is evenly divisable
                 i *=j # return smallest possible i
-                break
-print (i)
+                break # terminate the loop
+print (i) # display the anwser
