@@ -4,4 +4,4 @@
 # open the data file and give it the variable name f and then close the file when complete
 with open("data/iris.csv") as f:
     for line in f: # read the file line by line
-      print(line.split(',') [0:4])
+      print(line.split(',') [0:4]) # split the line into a string seperated by a coma and print only the first 4 columns of data
