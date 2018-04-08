@@ -6,7 +6,7 @@
 i = 1
 for k in (range(1, 21)): # "List" from 1 to 20
     if i / k > 0: # i is +ive
-        for j in range(1, 21):
+        for j in range(1, 21): # This is the range in scope
             if (i*j) % k == 0: # i is evenly divisable
                 i *=j # return smallest possible i
                 break # terminate the loop
